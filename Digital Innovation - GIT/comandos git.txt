@@ -1,0 +1,35 @@
+git init 						--inicia git no repos local
+git add . 						--adiciona todos os arquivos ao monitoramento
+git status						--verifica arquivo alterado mas não comitado
+git add <<filename>> 			--adiciona o arquivo ao monitoramento
+git reset HEAD <<filename>> 	--cancela adicao de arquivo add
+git diff <<filename>> 			--visualiza as alterações no arquivo
+git commit -m '<<Message>>		--commita com uma mensagem
+git checkout -- <<filename>> 	--reseta as alterações em um arquivo
+git push 						--envia para repositorio remoto branch master
+git push origin <<branchName>>	--envia para repositorio da branch
+git log							--exibe todos os comits realizados
+git branch 						--lista os branchs existentes local
+git checkout <<branchName>> 	--troca de branch
+git checkout -b <<branchName>>	--cria e troca para a branch
+git branch <<branchName>>		--cria uma nova branch
+git branch -d <<branchName>> 	--deleta uma branch
+git merge <<branchName>>		--realiza merge da Branch selecionada com a atual
+git commit --amend				--edita mensagem do último commit
+rm -rf <repo_folder>/.git		--deleta repositorio local
+
+################################# COMANDOS AO INICIAR UM NOVO REPOSITORY ############################
+CMD -- ir para o diretório que será o repositorio local ex:
+cd C:\Users\jose.sousa1\Documents\Treinamentos\Cursos - Git Repository
+
+…or create a new repository on the command line
+echo "# Cursos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tiagorockman/Cursos.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/tiagorockman/Cursos.git
+git push -u origin master
