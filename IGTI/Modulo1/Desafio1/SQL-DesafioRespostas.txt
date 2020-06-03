@@ -1,0 +1,79 @@
+/#### RESPOSTA SQL #####/
+1- Considere o banco de dados do enunciado. Crie uma consulta em SQL e responda: Quantos empregados possuem um dependente com o mesmo primeiro nome que o deles?
+ 
+	SELECT EMP.ssn , DEP.essn,
+	emp.pnome, dep.nome_dependente from empregado EMP 
+	inner join dependente DEP 
+	on EMP.ssn = DEP.essn
+	order by 1, 2
+	
+	SELECT COUNT(*) from empregado EMP 
+	inner join dependente DEP 
+	on EMP.ssn = DEP.essn AND EMP.pnome = DEP.nome_dependente
+
+2 - Considere o banco de dados do enunciado. Crie uma consulta em SQL e responda: Quantos empregados do departamento 5 trabalham mais de 10h por semana no projeto chamado "ProductX"?	
+
+	SELECT EMP.pnome, DEP.dnumero , P.pjnome, EM.horas
+	from empregado EMP 
+	inner join departamento DEP 
+		on EMP.dno = DEP.dnumero 
+		AND EMP.dno = 5
+	INNER JOIN projeto p
+		on DEP.dnumero = P.dnum
+		AND P.pjnome = 'ProductX'
+	INNER JOIN trabalha_em EM
+		ON EMP.ssn =  EM.essn
+		AND P.pnumero = EM.pno
+	WHERE EM.horas > 10.0
+	
+8 - Considere o banco de dados do enunciado. Crie uma consulta em SQL e responda: Qual é a soma dos salários de todos os empregados do departamento chamado 'Research'?
+
+	select sum(EMP.salario) SUM_SAL, DP.dnome from empregado EMP
+	inner join departamento DP
+		on DP.dnumero = emp.dno
+		and DP.dnome = 'Research'
+	GROUP by dp.dnome
+	
+9 - Considere o banco de dados do enunciado. Crie uma consulta em SQL e responda: Quem é a pessoa que possui mais tempo de alocação no projeto 'Newbenefits'?
+	select emp.pnome, DP.dnome, prj.pjnome, tbem.horas
+	from empregado EMP
+	inner join departamento DP
+		on DP.dnumero = emp.dno
+	INNER JOIN projeto PRJ
+		ON prj.dnum = dp.dnumero
+		and prj.pjnome = 'Newbenefits'
+	inner join trabalha_em TBEM
+		on prj.pnumero = tbem.pno
+		and emp.ssn = tbem.essn
+	order by tbem.horas desc
+
+10 - Considere o banco de dados do enunciado. Crie uma consulta em SQL e responda: Qual seria o custo do projeto com folha salarial (soma de todos os salários), caso a empresa desse 10% de aumento para todos os empregados que trabalham no projeto 'ProductX'?
+
+	SELECT prj.pjnome, sum(e.salario) CUSTO_ATUAL, sum(e.salario)*1.1  CUSTO_NOVO
+	FROM empregado e
+	INNER JOIN trabalha_em em
+	on essn = e.ssn
+	inner join projeto prj
+	on em.pno = prj.pnumero
+	and prj.pjnome = 'ProductX'
+	group by prj.pjnome
+	
+12 - Considere o banco de dados do enunciado. Crie uma consulta em SQL e responda: Qual a média salarial nessa empresa?
+	select AVG(salario) from empregado
+	
+13 - Considere o banco de dados do enunciado. Crie uma consulta em SQL e responda: Quais os nomes de todos os empregados que são diretamente supervisionados por Franklin Wong?
+	select e.pnome from empregado e
+	where e.dno in (
+	  select  e.dno /*dep.gerssn, e.pnome, dep.dnumero */ FROM empregado E
+	  inner join departamento dep
+	  on e.ssn = dep.gerssn
+	  where e.pnome|| ' ' || e.unome = 'Franklin Wong' )
+	and e.ssn not IN ( SELECT gerssn from departamento )
+	
+14 - Considere o banco de dados do enunciado. Crie uma consulta em SQL e responda: Qual o nome do departamento com a menor média de salário entre seus funcionários?
+	select  d.dnome, AVG(e.salario) MEDIA_SALARIAL
+	from empregado e
+	inner join departamento d
+	on e.dno = d.dnumero
+	group by d.dnome
+	order by 2 asc
