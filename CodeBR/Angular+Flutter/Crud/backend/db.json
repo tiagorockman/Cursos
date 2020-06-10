@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+PlusUltra",
+      "price": "7520.89"
+    },
+    {
+      "name": "Geladeira Brastemp",
+      "price": 3500,
+      "id": 5
+    },
+    {
+      "name": "Lapis preto Básico",
+      "price": "1.50",
+      "id": 6
+    }
+  ]
+}
