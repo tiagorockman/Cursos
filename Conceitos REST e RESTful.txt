@@ -1,0 +1,13 @@
+//REST - RESTFUL
+REST -> conjunto de princípio da arquitetura 
+RESTful -> capacidade de determinado sistema aplicar os princípios de REST.
+
+REST significa Representational State Transfer. Em português, 
+Transferência de Estado Representacional. Trata-se de uma abstração da arquitetura da Web. 
+Resumidamente, o REST consiste em princípios/regras/constraints que, quando seguidas, 
+permitem a criação de um projeto com interfaces bem definidas.
+
+princípios
+regras
+constraints
+
