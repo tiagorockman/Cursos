@@ -107,6 +107,41 @@ const familia = [
 const familiaIdadeDESC = familia.sort((current, next) => next.idade - current.idade);
 //familiaIdadeDESC
 
+const familia2 = [
+    { nome: 'Andre', homem: true },
+    { nome: 'Zuleica', homem: false },
+    { nome: 'Antonia', homem: false },
+    { nome: 'Erlana', homem: false },
+    { nome: 'Zulu', homem: true }
+];
+
+//ordena os true primeiro
+ familia2.sort((a,b) => {
+        if(a.homem && !b.homem) return -1;  //se o item a for concluido e b não for retorna 1
+        else if(!a.homem && b.homem) return 1;  //se a não estiver concluido e b estiver retorna -1
+        else return 0; //se a e b iguais
+      });
+	  
+//ordena alfabeticamente por grupo de homem e mulher
+familia2.sort((current, next) => {
+	if(current.homem && next.homem){ //se atual e proximo for homem
+		if(current.nome < next.nome) return -1;
+		if(current.nome > next.nome) return 1;
+		return 0;
+	}else  if(!current.homem && !next.homem){ //se atual e proximo for mulher
+		if(current.nome < next.nome) return -1;
+		if(current.nome > next.nome) return 1;
+		return 0;
+	}else
+		return 0;	
+});
+
+users.sort(function(a, b){
+    if(a.firstname < b.firstname) { return -1; }
+    if(a.firstname > b.firstname) { return 1; }
+    return 0;
+})
+
 //reverse inverte elementos de um array
 console.log("Reverse :" + arr.reverse());
 //join junta os elementos de um array separado por um delimitador, retorna string 

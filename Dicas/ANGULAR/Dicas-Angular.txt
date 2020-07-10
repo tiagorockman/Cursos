@@ -1,0 +1,5 @@
+/*****************COMANDOS INTERESSANTES ANGULAR************************/
+ng lint --> Verifica se os códigos estão bem formatados de acordo com as boas práticas do Angular
+ng test --> Test TDD utilizando o Jasmine
+build --dv --> não é mimificado, é gerado um diretório dist
+build --prod --> é mimificado e ofuscados
