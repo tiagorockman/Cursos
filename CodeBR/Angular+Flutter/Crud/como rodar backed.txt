@@ -1,0 +1,7 @@
+como package json está configurado para 
+
+"start": "json-server --watch db.json --port 3001"
+
+para iniciar o backend 
+cd no terminal para a pasta backend
+npm start

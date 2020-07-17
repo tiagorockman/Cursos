@@ -1,0 +1,12 @@
+SOLID -> São 5 princípios utilizado na POO que torna o processo de desenvolvimento mais fácil de reutilizar e evoluir.
+S (SRP) - Simple Responsability Principle - Princípio da Responsabilidade Única -> Uma classe deve ter um motivo para mudar, 1 classe deve possuir apenas uma responsabilidade (Uma tarefa ou Uma ação para executar).
+ O (OCP) - Open-Closed Principle - Princípio do Aberto-Fechado -> Objetos e entidades devem estar aberto para extensão mas fechados para modificação, quando um novo comportamento e recursos deve ser adicionado ao software devemos extender e não modificar o código fonte original. 
+  L (LSP) - Liskov Substitution Principle - Princípio da Substituição de Liskov -> Uma classe derivada deve ser substituível por sua classe básica.
+   I (ISP) - Integration Segregation Principle - Princípio da Segregação da Interface -> A classe não é deve ser forçada a implementar interface e métodos que não irão utilizar, é melhor criar interfaces mais especificas do que uma interface generica.
+    D (DIP) - Depency Inversion Principle - Princípio da Inversão da Dependencia -> Devemos depender de abstrações e não de implementações.
+	
+Não uso do SOLID
+SPR -> Falta de coesão - justamente a classe ter várias responsabilidades quando por exemplo é responsável por chamar várias outras funções
+	   Alto Acoplamento - Mais responsabilidades gera maior nível de dependência deixando o sistema ingessado e frágil para alteração, ocasionando
+	   dificuldade para Testes Automatizados e tem baixo reaproveitamento
+OCP -> 
