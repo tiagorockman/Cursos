@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="./js/script.js"></script>
+
+
+</head>
+<body>
+  <div class="container">
+    <div class="red">
+      <label>(R) Vermelho:</label>
+     <input class="inputRange" type="range" min="0" max="255" step="1" id="rRed">
+      <input class="inputType" type="text" readonly id="rText" placeholder="0">
+    </div>
+    <div class="green">
+      <label>(G) Verde:</label>
+      <input type="range" min="0" max="255" step="1" id="rGreen" >
+      <input type="text" readonly id="gText" placeholder="0">
+    </div>
+    <div class="blue">
+      <label>(B) Azul:</label>
+      <input type="range" min="0" max="255" step="1" id="rBlue">
+      <input type="text" readonly id="bText" placeholder="0">
+    </div>
+    <div class="rgbColor" id="divCor">
+    </div>
+  </div>
+  
+</body>
+</html>

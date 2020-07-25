@@ -17,6 +17,7 @@ git branch -d <<branchName>> 	--deleta uma branch
 git merge <<branchName>>		--realiza merge da Branch selecionada com a atual
 git commit --amend				--edita mensagem do último commit
 rm -rf <repo_folder>/.git		--deleta repositorio local
+git pull						--baixa atualização do repositorio na rede para a pasta local
 
 ################################# COMANDOS AO INICIAR UM NOVO REPOSITORY ############################
 CMD -- ir para o diretório que será o repositorio local ex:
