@@ -1,0 +1,25 @@
+2020-08-07T12:30:04.699Z [my-bank-api] info: API Started!
+2020-08-07T13:20:27.981Z [my-bank-api] info: API Started!
+2020-08-07T13:21:51.781Z [my-bank-api] error: PATCH /account - ENOENT: no such file or directory, open 'c:\Users\jose.sousa1\Documents\Treinamentos\Cursos - Git Repository\IGTI\Desenvolvedor FullStack (React, js etc)\Modulo 2\bank-api\accounts.json'
+2020-08-07T13:27:59.028Z [my-bank-api] info: API Started and File Created!
+2020-08-07T13:28:25.174Z [my-bank-api] info: GET / - {"accounts":[]}
+2020-08-07T13:28:37.604Z [my-bank-api] info: POST /account - {"id":1,"name":"Juliana","balance":2000}
+2020-08-07T13:28:50.911Z [my-bank-api] info: POST /account - {"id":2,"name":"James Snows","balance":332244}
+2020-08-07T13:29:01.110Z [my-bank-api] info: GET / - {"accounts":[{"id":1,"name":"Juliana","balance":2000},{"id":2,"name":"James Snows","balance":332244}]}
+2020-08-07T13:29:34.753Z [my-bank-api] info: DELETE /account/:id - "1"
+2020-08-07T13:36:19.817Z [my-bank-api] info: API Started!
+2020-08-07T13:36:52.063Z [my-bank-api] info: API Started!
+2020-08-07T13:42:03.275Z [my-bank-api] info: API Started!
+2020-08-07T13:42:12.570Z [my-bank-api] info: API Started!
+2020-08-07T13:42:47.952Z [my-bank-api] info: API Started!
+2020-08-07T13:42:56.067Z [my-bank-api] info: API Started!
+2020-08-07T13:43:03.043Z [my-bank-api] info: API Started!
+2020-08-07T13:51:49.141Z [my-bank-api] info: API Started!
+2020-08-07T13:55:39.545Z [my-bank-api] info: API Started!
+2020-08-07T13:57:56.608Z [my-bank-api] info: API Started!
+2020-08-07T13:58:28.811Z [my-bank-api] info: API Started!
+2020-08-07T13:58:58.502Z [my-bank-api] info: API Started!
+2020-08-10T11:43:42.735Z [my-bank-api] info: API Started!
+2020-08-10T11:44:02.569Z [my-bank-api] info: API Started!
+2020-08-10T11:45:49.837Z [my-bank-api] info: GET / - {"accounts":[{"id":2,"name":"James Snows","balance":332244}]}
+2020-08-10T12:11:51.148Z [my-bank-api] info: API Started!

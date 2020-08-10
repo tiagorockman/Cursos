@@ -1,0 +1,18 @@
+npm install express 
+	(Express: modulo utilizado para utilizar http e os seus verbos para criação de API)
+npm	install winston
+	(Winston: módulo utilizado para log de erros)
+npm install cors 
+	(Utilizado para fazer requisições para a API de outro domínio diferente 
+		é só utilizar na api
+			app.user(cors()) //forma global 
+	)
+npm install swagger-ui-express
+	(// site para criação do Swagger https://editor.swagger.io/)
+	
+npm init -y -> Inicia o repositorio com as opções como sim
+npm index.js -> Inicia a execução do index.js
+nodemon index.js -> Inicia a execução do index.js auto iniciavel a cada alteração
+Insominia - software semelhante ao Postman para realizar chamadas http
+
+
