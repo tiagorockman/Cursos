@@ -1,0 +1,13 @@
+﻿**** EXTENSÕES VSCODE ****
+es7
+
+**** PROGRAMAS *****
+node.js
+cmder (CTRL + L -> limpa a tela)
+yarn 1.22.4
+
+
+***** COMPONENTES ******
+yarn add react-flip-move //componente para transição de cards
+yarn add react-countup //componente faz a mudança animada de divs-card
+yarn add axios // utilizada para fazer requisições

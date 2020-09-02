@@ -1,0 +1,11 @@
+**** RODANDO PROJETO JAVASCRIPT *****
+1 - Certificar que live Server está instalado Extensões
+2 - Rodar ir no arquivo HTML pressionar F1 Live Server (Open With...)
+
+
+**** CRIANDO PROJETO REACT*****
+npx create-react-app ou 
+npx create-react-app --scripts-version 3.4.1 teste-app (--scripts-version determina uma versão especifica)
+Na pasta do React executar comando "yarn" que irá baixar todas as dependencias
+
+-> yarn start = "INICIA A APLICACAO"

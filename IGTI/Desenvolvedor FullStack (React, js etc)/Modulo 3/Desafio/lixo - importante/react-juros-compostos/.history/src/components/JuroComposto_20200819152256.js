@@ -1,0 +1,79 @@
+import React, { useEffect, useState } from "react";
+import { compoundInterest } from "../helpers/interest";
+import Box from "./Box";
+
+export default function JuroComposto({
+  capitalInicial,
+  jurosMensal,
+  periodoMeses,
+}) {
+  const [jurosCompostos, setJurosCompostos] = useState([]);
+
+  useEffect(() => {
+    const getJurosCompostos = () => {
+      const jurosCompostos = compoundInterest(
+        capitalInicial,
+        jurosMensal,
+        periodoMeses
+      );
+      setJurosCompostos(jurosCompostos);
+    };
+    getJurosCompostos();
+  }, [capitalInicial, jurosMensal, periodoMeses]);
+
+  const handleChangeMontanteInicial = (event) => {
+    console.log(event.target.value);
+    setJurosCompostos({
+      capitalInicial: event.target.value,
+      jurosMensal,
+      periodoMeses,
+    });
+  };
+
+  const handleChangeJurosMensal = () => {};
+  const handleChangePeriodoMensal = () => {};
+  return (
+    <div>
+      <label>Montante inicial: </label>
+      <input
+        type="number"
+        defaultValue={capitalInicial}
+        onChange={handleChangeMontanteInicial}
+      ></input>
+
+      <label>Taxa de juros mensal: </label>
+      <input
+        type="number"
+        defaultValue={jurosMensal}
+        min="-12"
+        max="12"
+        onChange={handleChangeJurosMensal}
+      ></input>
+
+      <label>Perido (mensal): </label>
+      <input
+        type="number"
+        defaultValue={periodoMeses}
+        min="1"
+        max="12"
+        onChange={handleChangePeriodoMensal}
+      ></input>
+
+      <div style={{ marginTop: "20px", display: "flex", flexWrap: "wrap" }}>
+        {jurosCompostos.length > 0 &&
+          jurosCompostos.map((montante) => (
+            <Box key={montante}>
+              {montante.mes}
+              <br />
+              {montante.valorMensal}
+              <br />
+              {montante.valorMensalMaisJuros}
+              <br />
+              {montante.valorJuroMensal}
+              <br />
+            </Box>
+          ))}
+      </div>
+    </div>
+  );
+}

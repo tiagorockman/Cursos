@@ -1,0 +1,43 @@
+.border {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.flexRow {
+  /* Flex box alinhador horizontalmente */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.country{
+  min-width: 120px;
+  max-width: 120px;
+
+  min-height: 120px;
+  margin: 10px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flag{
+  max-width: 50px;
+  max-height: 50px;
+  width: auto;
+  height: auto;
+  
+  border-radius: 50px;
+  
+}
+.countryName{
+  text-align: center;
+}

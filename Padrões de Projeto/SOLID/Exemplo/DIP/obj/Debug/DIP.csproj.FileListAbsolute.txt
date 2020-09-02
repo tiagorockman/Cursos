@@ -1,0 +1,1 @@
+C:\Users\jose.sousa1\Documents\Treinamentos\Cursos - Git Repository\Padrões de Projeto\SOLID\Exemplo\DIP\bin\Debug\DIP.exe.config

@@ -1,0 +1,38 @@
+Projeto react-names:
+====================
+
+[] Subir e testar backend
+
+[] Em App.js, criar state:
+   - allNames []
+   - namesToShow []
+   - nameCount 0
+   - options, array com {id, description, toggled, callback}
+
+[] Montar tela de inputs, com 'number' para namesToShow e 
+   um map para options, com radio buttons. Persistir os cliques
+
+[] Criar effect para busca dos dados na API, com deps = []. Mostrar 
+   técnica da utilização de async/await, isolando a execução em uma 
+   closure.
+
+[] Criar componentes <Names /> e <Name> para mostrar dados na tela,
+   demonstrando a técnica de "componenet composition" com props.children
+   e evitando o problema do "prop drilling".
+
+[] Criar effect para reagir à troca de valores de nameCount, 
+   mostrando os dados na tela filtrados com base em nameCount 
+
+[] Implementar callbacks de options 
+
+[] Modificar o useEffect de nameCount, adicionando a execução
+   dos callbacks com array.map
+
+[] Criar nova funcionalidade, para demonstrar os nomes com a 
+   respectiva quantidade de caracteres entre parênteses. Demonstrar 
+   porque é importante "fazer o computador trabalhar pra você".
+
+[] Estilizar o app
+   
+  
+   
