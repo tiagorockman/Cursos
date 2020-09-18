@@ -1,0 +1,36 @@
+<h5>Diretiva *ngIF</h5>
+
+<div *ngIf="cursos.length > 0">Lista de curso</div >
+
+
+<div *ngIf="cursos.length == 0">
+    --esse é como se fosse o else
+    <br> Não existem cursos para serem listados.</div>
+
+
+<div *ngIf="mostrarCursos">Lista de curso</div >
+
+    <br> Boolean
+
+<div *ngIf="!mostrarCursos">
+    --esse é como se fosse o else 
+    <br> Não existem cursos para serem listados.</div>
+
+<br>
+<button (click)="onMostrarCursos()"> Mostrar ou esconder cusros</button>
+
+
+<h5>Hidden como alternativa</h5>
+<div [hidden]="!mostrarCursos">Lista de curso</div>
+<div [hidden]="mostrarCursos">
+<br> Não existem cursos para serem listados.</div>
+
+<br><br>
+<h5>Sobre o uso do * e Template</h5>
+<ng-template [ngIf]="mostrarCursos">
+    <div>Lista de cursos aqui.</div>
+  </ng-template>
+
+<div ng-template="ngIf mostrarCursos">
+    <div>Lista de Cursos aqui.</div>
+</div>

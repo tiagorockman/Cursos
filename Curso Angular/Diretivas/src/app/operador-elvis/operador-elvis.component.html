@@ -1,0 +1,5 @@
+<p> Descrição: {{ tarefa.desc }} </p>
+<!-- com operador ternário -->
+<p> Responsável: {{ tarefa.responsavel.nome != null ? tarefa.responsavel.nome : '' }} </p>
+<!--  com operador Elvis -->
+<p> Responável: {{ tarefa.responsavel?.usuario?.nome }} </p>
