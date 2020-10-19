@@ -34,3 +34,8 @@ git push -u origin master
 …or push an existing repository from the command line
 git remote add origin https://github.com/tiagorockman/Cursos.git
 git push -u origin master
+
+################################# CLONE DIR #####################################################
+cd <<DIR>> para acessar o diretorio
+git clone <<url_git>>
+git clone https://github.com/tiagorockman/hackerrank.git

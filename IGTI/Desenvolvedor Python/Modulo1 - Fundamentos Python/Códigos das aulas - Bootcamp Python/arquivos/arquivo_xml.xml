@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding = "UTF-8" standalone = "no"?>
+<data>
+    <items>
+        <item name="item1">Arroz</item>
+        <item name="item2">Feijão</item>
+        <item name="item3">Batata</item>
+        <item name="item4">Molho de Tomate</item>
+        <item name="item5">Macarrão</item>
+    </items>
+</data>

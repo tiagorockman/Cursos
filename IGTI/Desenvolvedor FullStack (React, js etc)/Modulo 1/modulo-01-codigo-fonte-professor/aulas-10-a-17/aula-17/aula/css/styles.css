@@ -1,0 +1,43 @@
+body {
+  padding: 10px;
+  background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(94, 66, 66, 21), rgba(85, 45, 55, 30));
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+  border-radius: 50%;
+}
+
+.country-container {
+  display: flex;
+  justify-content: center;
+}
+
+.country {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.add {
+  border-radius: 50%;
+  background-color: darkgreen;
+  color: white;
+  font-weight: bold;
+}
+
+.country-list {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-right: 10px;
+  background-color: cornsilk;
+}
+
+h1 {
+  color: blanchedalmond;
+}

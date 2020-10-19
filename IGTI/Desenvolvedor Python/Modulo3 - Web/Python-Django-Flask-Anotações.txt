@@ -1,0 +1,17 @@
+_____PYTHON COMANDS_______
+-- Os environment tudo o que for instalado será instalado apenas noaquele enviroment, não será baixado de forma global.
+--Criando Environment
+python -m pip install --user virtualenv (no diretório que vai ser utilizado)
+py -m venv <<nomeEnv>> 					(Cria o diretório virtual)
+dir					    				(Lista o que tem no enviroment)
+.\<<nomeEnv>>\Scripts\activate 			(Ativa o enviroment)
+..\<<nomeEnv>>\Scripts\activate			(Dependendo e se estiver utilizando o VSCODE precisa voltar pasta anterior para acessar)
+python -m pip install Django			(Instala o Djando no enviroment)
+
+
+
+_____DJANGO COMANDS________
+django-admin startproject <<projectName>> 	(Cria um novo projeto Djando)
+cd .\<<projectName>>\						(Acessa o projeto)
+python manage.py runserver					(Executa conjunto de scripts no projeto)
+python manage.py startapp <<nomeapp>>	(Inicia a criação da aplicação)		

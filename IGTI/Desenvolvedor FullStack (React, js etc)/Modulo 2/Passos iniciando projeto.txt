@@ -1,0 +1,4 @@
+npm init --> inicia o projeto node
+npm init <<nomeprojeto>>
+npm install express --> instala o express
+npm install -g nodemon --> nodemon é utilizado para executar o backend em live server

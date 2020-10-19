@@ -1,0 +1,1 @@
+Este é um exemplo de frase lida de um arquivo.
