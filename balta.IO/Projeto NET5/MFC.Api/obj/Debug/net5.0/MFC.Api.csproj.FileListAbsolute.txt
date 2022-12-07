@@ -1,0 +1,183 @@
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\appsettings.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.exe
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.deps.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.runtimeconfig.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.runtimeconfig.dev.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\ref\MFC.Api.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.xml
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Dapper.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\FluentValidator.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Domain.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Shared.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Domain.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Shared.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Infra.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.csprojAssemblyReference.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.AssemblyInfoInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.AssemblyInfo.cs
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.csproj.CoreCompileInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\staticwebassets\MFC.Api.StaticWebAssets.Manifest.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\staticwebassets\MFC.Api.StaticWebAssets.xml
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\scopedcss\bundle\MFC.Api.styles.css
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.RazorTargetAssemblyInfo.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.csproj.CopyComplete
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\ref\MFC.Api.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.genruntimeconfig.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\appsettings.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.exe
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.deps.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.runtimeconfig.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.runtimeconfig.dev.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\ref\MFC.Api.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Api.xml
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Dapper.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\FluentValidator.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Domain.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Shared.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Domain.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Shared.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\bin\Debug\net5.0\MFC.Infra.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.csprojAssemblyReference.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.AssemblyInfoInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.AssemblyInfo.cs
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.csproj.CoreCompileInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\staticwebassets\MFC.Api.StaticWebAssets.Manifest.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\staticwebassets\MFC.Api.StaticWebAssets.xml
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\scopedcss\bundle\MFC.Api.styles.css
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.RazorTargetAssemblyInfo.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.csproj.CopyComplete
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\ref\MFC.Api.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Api\obj\Debug\net5.0\MFC.Api.genruntimeconfig.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\appsettings.Development.json
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\appsettings.json
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Api.exe
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Api.deps.json
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Api.runtimeconfig.json
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Api.runtimeconfig.dev.json
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Api.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\ref\MFC.Api.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Api.pdb
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Api.xml
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Dapper.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\FluentValidator.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Domain.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Infra.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Shared.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Domain.pdb
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Shared.pdb
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\bin\Debug\net5.0\MFC.Infra.pdb
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.csprojAssemblyReference.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.GeneratedMSBuildEditorConfig.editorconfig
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.AssemblyInfoInputs.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.AssemblyInfo.cs
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.csproj.CoreCompileInputs.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.MvcApplicationPartsAssemblyInfo.cs
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.MvcApplicationPartsAssemblyInfo.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\staticwebassets\MFC.Api.StaticWebAssets.Manifest.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\staticwebassets\MFC.Api.StaticWebAssets.xml
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\scopedcss\bundle\MFC.Api.styles.css
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.RazorTargetAssemblyInfo.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.csproj.CopyComplete
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\ref\MFC.Api.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.pdb
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Api\obj\Debug\net5.0\MFC.Api.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>MFC.Api</AssemblyName>
+    <RootNamespace>MotorFleetContract.Api</RootNamespace>
+    <UserSecretsId>44472f8c-3ab4-4827-9c2b-23e6ad055fa5</UserSecretsId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Api\MFC.Api.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.ResponseCompression" Version="2.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MFC.Domain\MFC.Domain.csproj" />
+    <ProjectReference Include="..\MFC.Shared\MFC.Shared.csproj" />
+    <ProjectReference Include="..\MFC.Infra\MFC.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

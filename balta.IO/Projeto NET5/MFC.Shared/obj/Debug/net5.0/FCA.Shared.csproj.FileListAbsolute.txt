@@ -1,0 +1,12 @@
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\bin\Debug\net5.0\FCA.Shared.deps.json
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\bin\Debug\net5.0\FCA.Shared.dll
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\bin\Debug\net5.0\ref\FCA.Shared.dll
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\bin\Debug\net5.0\FCA.Shared.pdb
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\obj\Debug\net5.0\FCA.Shared.csprojAssemblyReference.cache
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\obj\Debug\net5.0\FCA.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\obj\Debug\net5.0\FCA.Shared.AssemblyInfoInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\obj\Debug\net5.0\FCA.Shared.AssemblyInfo.cs
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\obj\Debug\net5.0\FCA.Shared.csproj.CoreCompileInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\obj\Debug\net5.0\FCA.Shared.dll
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\obj\Debug\net5.0\ref\FCA.Shared.dll
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Shared\obj\Debug\net5.0\FCA.Shared.pdb

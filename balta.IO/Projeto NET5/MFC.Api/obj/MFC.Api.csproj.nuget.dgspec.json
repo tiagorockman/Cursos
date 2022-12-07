@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Api\\MFC.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Api\\MFC.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Api\\MFC.Api.csproj",
+        "projectName": "MFC.Api",
+        "projectPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Api\\MFC.Api.csproj",
+        "packagesPath": "C:\\Users\\tiago.neves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tiago.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\ClaimsGit\\Framework_Zurich\\Installers": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Domain\\MFC.Domain.csproj": {
+                "projectPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Domain\\MFC.Domain.csproj"
+              },
+              "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Infra\\MFC.Infra.csproj": {
+                "projectPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Infra\\MFC.Infra.csproj"
+              },
+              "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Shared\\MFC.Shared.csproj": {
+                "projectPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Shared\\MFC.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.ResponseCompression": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Domain\\MFC.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Domain\\MFC.Domain.csproj",
+        "projectName": "MFC.Domain",
+        "projectPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Domain\\MFC.Domain.csproj",
+        "packagesPath": "C:\\Users\\tiago.neves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tiago.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\ClaimsGit\\Framework_Zurich\\Installers": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Shared\\MFC.Shared.csproj": {
+                "projectPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Shared\\MFC.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Infra\\MFC.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Infra\\MFC.Infra.csproj",
+        "projectName": "MFC.Infra",
+        "projectPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Infra\\MFC.Infra.csproj",
+        "packagesPath": "C:\\Users\\tiago.neves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tiago.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\ClaimsGit\\Framework_Zurich\\Installers": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Domain\\MFC.Domain.csproj": {
+                "projectPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Domain\\MFC.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Shared\\MFC.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Shared\\MFC.Shared.csproj",
+        "projectName": "MFC.Shared",
+        "projectPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Shared\\MFC.Shared.csproj",
+        "packagesPath": "C:\\Users\\tiago.neves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tiago.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\ClaimsGit\\Framework_Zurich\\Installers": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidator": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

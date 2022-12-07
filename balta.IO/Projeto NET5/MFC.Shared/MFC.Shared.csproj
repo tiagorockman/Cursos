@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>MFC.Shared</AssemblyName>
+    <RootNamespace>MFC.Shared</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidator" Version="2.0.2" />
+  </ItemGroup>
+
+</Project>

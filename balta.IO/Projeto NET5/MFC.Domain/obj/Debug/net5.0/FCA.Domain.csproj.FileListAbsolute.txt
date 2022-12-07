@@ -1,0 +1,12 @@
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\bin\Debug\net5.0\FCA.Domain.deps.json
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\bin\Debug\net5.0\FCA.Domain.dll
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\bin\Debug\net5.0\ref\FCA.Domain.dll
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\bin\Debug\net5.0\FCA.Domain.pdb
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\obj\Debug\net5.0\FCA.Domain.csprojAssemblyReference.cache
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\obj\Debug\net5.0\FCA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\obj\Debug\net5.0\FCA.Domain.AssemblyInfoInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\obj\Debug\net5.0\FCA.Domain.AssemblyInfo.cs
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\obj\Debug\net5.0\FCA.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\obj\Debug\net5.0\FCA.Domain.dll
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\obj\Debug\net5.0\ref\FCA.Domain.dll
+C:\ProjetosClaims\Claims\GAC\Main\CSMB.Web.API.GAC.FCA\FCA.Domain\obj\Debug\net5.0\FCA.Domain.pdb

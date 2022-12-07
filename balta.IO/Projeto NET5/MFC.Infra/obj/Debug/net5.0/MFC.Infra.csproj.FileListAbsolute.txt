@@ -1,0 +1,51 @@
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Infra.deps.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\ref\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Infra.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Domain.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Shared.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Domain.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Shared.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.csprojAssemblyReference.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.AssemblyInfoInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.AssemblyInfo.cs
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.csproj.CoreCompileInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.csproj.CopyComplete
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\ref\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\CSMB.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Infra.deps.json
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\ref\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Infra.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Domain.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Shared.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Domain.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\bin\Debug\net5.0\MFC.Shared.pdb
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.csprojAssemblyReference.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.AssemblyInfoInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.AssemblyInfo.cs
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.csproj.CoreCompileInputs.cache
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.csproj.CopyComplete
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\ref\MFC.Infra.dll
+C:\ProjetosClaims\Claims\GAC\Main\Webservices\Zurich.Web.API.GAC.MotorFleetContract\MFC.Infra\obj\Debug\net5.0\MFC.Infra.pdb
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\bin\Debug\net5.0\MFC.Infra.deps.json
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\bin\Debug\net5.0\MFC.Infra.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\bin\Debug\net5.0\ref\MFC.Infra.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\bin\Debug\net5.0\MFC.Infra.pdb
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\bin\Debug\net5.0\MFC.Domain.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\bin\Debug\net5.0\MFC.Shared.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\bin\Debug\net5.0\MFC.Domain.pdb
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\bin\Debug\net5.0\MFC.Shared.pdb
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\obj\Debug\net5.0\MFC.Infra.csprojAssemblyReference.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\obj\Debug\net5.0\MFC.Infra.GeneratedMSBuildEditorConfig.editorconfig
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\obj\Debug\net5.0\MFC.Infra.AssemblyInfoInputs.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\obj\Debug\net5.0\MFC.Infra.AssemblyInfo.cs
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\obj\Debug\net5.0\MFC.Infra.csproj.CoreCompileInputs.cache
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\obj\Debug\net5.0\MFC.Infra.csproj.CopyComplete
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\obj\Debug\net5.0\MFC.Infra.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\obj\Debug\net5.0\ref\MFC.Infra.dll
+\\brzfs100\transfer\ClaimsOperations\PastasPublicas\Tiago Neves\Projeto NET5\MFC.Infra\obj\Debug\net5.0\MFC.Infra.pdb
