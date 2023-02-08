@@ -17,9 +17,9 @@ namespace Alura.Estacionamento.Modelos
             veiculos = new List<Veiculo>();
         }
         private List<Veiculo> veiculos;
-        private double faturado;     
+        private double faturado;
         public double Faturado { get => faturado; set => faturado = value; }
-        public List<Veiculo> Veiculos { get => veiculos; set => veiculos = value; }     
+        public List<Veiculo> Veiculos { get => veiculos; set => veiculos = value; }
         public double TotalFaturado()
         {
             return this.Faturado;
@@ -33,8 +33,9 @@ namespace Alura.Estacionamento.Modelos
 
         public void RegistrarEntradaVeiculo(Veiculo veiculo)
         {
-            veiculo.HoraEntrada = DateTime.Now;           
-            this.Veiculos.Add(veiculo);            
+            veiculo.HoraEntrada = DateTime.Now;
+            veiculo.Ticket = this.GerarTicket(veiculo);
+            this.Veiculos.Add(veiculo);
         }
 
         public string RegistrarSaidaVeiculo(String placa)
@@ -87,23 +88,37 @@ namespace Alura.Estacionamento.Modelos
         {
             // Como estamos trabalhando com array de objetos,
             // Podemos utilizar os recursos do `Linq to Objetcs` do .NET
-            var veiculoTemp =  (from veiculo in this.Veiculos
-                           where veiculo.Placa == veiculoAlterado.Placa
-                           select veiculo).SingleOrDefault();
+            var veiculoTemp = (from veiculo in this.Veiculos
+                               where veiculo.Placa == veiculoAlterado.Placa
+                               select veiculo).SingleOrDefault();
             veiculoTemp.AlteraDados(veiculoAlterado);
             return veiculoTemp;
 
-         }
+        }
         public Veiculo PesquisaVeiculo(string placa)
         {
             // Como estamos trabalhando com array de objetos,
             // Podemos utilizar os recursos do `Linq to Objetcs` do .NET
-            var encontrado = (from veiculo in this.Veiculos 
-                             where veiculo.Placa == placa 
-                             select veiculo).SingleOrDefault();
+            var encontrado = (from veiculo in this.Veiculos
+                              where veiculo.Placa == placa
+                              select veiculo).SingleOrDefault();
             return encontrado;
         }
 
-      
+        private string GerarTicket(Veiculo veiculo)
+        {
+            string identificador = new Guid().ToString().Substring(0, 5);
+            veiculo.IdTicket = identificador;
+            string ticket = "###Ticket Estacionamento Alura###" +
+                            $"Identifcador: {identificador}" +
+                            $"Data/Hora de entrada: {DateTime.Now}" +
+                            $"Placa do Veículo:{veiculo.Placa}";
+                            
+
+            return ticket;
+        }
+
+
+
     }
 }

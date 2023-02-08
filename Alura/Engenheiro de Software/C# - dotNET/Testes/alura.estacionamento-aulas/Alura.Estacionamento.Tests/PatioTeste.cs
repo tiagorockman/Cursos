@@ -7,7 +7,7 @@ using Xunit.Abstractions;
 
 namespace Alura.Estacionamento.Tests
 {
-    public class PatioTeste:IDisposable
+    public class PatioTeste : IDisposable
     {
         private Veiculo veiculo = new Veiculo();
         public ITestOutputHelper Output { get; }
@@ -23,7 +23,7 @@ namespace Alura.Estacionamento.Tests
 
         }
 
-        
+
         [Fact]
         public void ValidaFaturamentoDoEstacionamentoComUmVeiculo()
         {
@@ -33,7 +33,7 @@ namespace Alura.Estacionamento.Tests
             veiculo.Proprietario = "André Silva";
             veiculo.Tipo = TipoVeiculo.Automovel;
             veiculo.Placa = "ABC-0101";
-            veiculo.Modelo = "Fusca";    
+            veiculo.Modelo = "Fusca";
             veiculo.Acelerar(10);
             veiculo.Frear(5);
             estacionamento.RegistrarEntradaVeiculo(veiculo);
@@ -49,7 +49,7 @@ namespace Alura.Estacionamento.Tests
         [Theory]
         [InlineData("André Silva", "ASD-1498", "preto", "Gol")]
         [InlineData("Jose Silva", "POL-9242", "Cinza", "Fusca")]
-        [InlineData("Maria Silva", "GDR-6524", "Azul", "Opala")]   
+        [InlineData("Maria Silva", "GDR-6524", "Azul", "Opala")]
         public void ValidaFaturamentoComVariosVeiculosNoEstacionamento(string proprietario,
                                                         string placa,
                                                         string cor,
