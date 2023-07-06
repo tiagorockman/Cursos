@@ -5744,7 +5744,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tiago.neves\\.nuget\\packages\\": {}
+    "C:\\Users\\tiago.neves\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5755,6 +5756,9 @@
       "packagesPath": "C:\\Users\\tiago.neves\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tiago.neves\\Documents\\ESTUDOS\\Meus Projetos\\Cursos\\balta.IO\\Projeto NET5\\MFC.Infra\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\tiago.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -5812,7 +5816,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
