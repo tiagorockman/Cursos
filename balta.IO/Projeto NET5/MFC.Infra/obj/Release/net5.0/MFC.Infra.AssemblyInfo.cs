@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MFC.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd793674518ecb5c6676320d1cb976492b51ad3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MFC.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MFC.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

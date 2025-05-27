@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "az_func_valida_cpf": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7266",
-      "launchBrowser": false
-    }
-  }
-}
